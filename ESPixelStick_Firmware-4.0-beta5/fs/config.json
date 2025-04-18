@@ -1,0 +1,20 @@
+{
+  "cfgver": 1.0,
+  "init": true,
+  "device": {
+    "id": "ESPixelStick"
+  },
+  "network": {
+    "ssid": "SecurityWPA",
+    "passphrase": "FFBJ3I39CRQ0X72CUHO8",
+    "hostname": "ESPixelStick",
+    "ip": "",
+    "netmask": "",
+    "gateway": "",
+    "dhcp": true,
+    "sta_timeout": 15.0,
+    "ap_fallback": false,
+    "ap_timeout": 120.0,
+    "ap_reboot": true
+  }
+}
